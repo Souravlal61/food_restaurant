@@ -7,13 +7,13 @@ const Logo = () => (
     <div>
       <img src={logo} alt='logo' />
       <span>
-        <b>Taste</b>
+        <b>Brew & Bites</b>
       </span>
     </div>
-    <p>
-      <b>Restaurant & BBQ</b>
-    </p>
-  </div>
+    {/* <p>
+      <b>A Healthy Restaurant</b>
+    </p> */}
+  </div> 
 );
 
 export default Logo;

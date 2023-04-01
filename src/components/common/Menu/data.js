@@ -118,4 +118,25 @@ export const menuItemsData = [
     price: 24,
     img: '/images/pizza.png',
   },
+  {
+    id: 17,
+    name: 'Pizza',
+    info: 'spicey with garlic and then deep fried to crispy perfection',
+    price: 24,
+    img: '/images/pizza.png',
+  },
+  {
+    id: 17,
+    name: 'Pizza',
+    info: 'spicey with garlic and then deep fried to crispy perfection',
+    price: 24,
+    img: '/images/pizza.png',
+  },
+  {
+    id: 17,
+    name: 'Pizza',
+    info: 'spicey with garlic and then deep fried to crispy perfection',
+    price: 24,
+    img: '/images/pizza.png',
+  },
 ];
